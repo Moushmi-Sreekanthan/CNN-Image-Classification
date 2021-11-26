@@ -22,8 +22,7 @@ The training set consists of 60k examples and test set consists of 10k examples.
 
 This dataset can be found [here.](https://github.com/zalandoresearch/fashion-mnist)
 
-## Run Locally
-### Requirements
+# Run Locally
 
 Type below command in cmd to get up and running with the dependencies of the file.
 
@@ -33,5 +32,6 @@ git clone https://github.com/Moushmi-Sreekanthan/CNN-Image-Classification.git
 
 ```
 
-## How to open it on google colaboratory
+# How to open it on google colaboratory
+
 Please take a look at [How-to-open-ipynb-on-Google-Colaboratory.](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory)
