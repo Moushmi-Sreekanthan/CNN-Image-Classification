@@ -1,5 +1,5 @@
 # Overview
-In this notebook, we build a simple convoluation neural network using tensorflow to classify Fashion-MNIST dataset which is a dataset of Zalando's article images.
+In this notebook, we build a simple convolutional neural network using tensorflow to classify Fashion-MNIST dataset which is a dataset of Zalando's article images.
 
 # Description
 * Training Fashion-MNIST by CNN on Google Colaboratory with TensorFlow 2.0 Alpha.
